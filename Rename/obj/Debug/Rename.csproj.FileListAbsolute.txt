@@ -1,0 +1,11 @@
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\bin\Debug\Rename.exe.config
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\bin\Debug\Rename.exe
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\bin\Debug\Rename.pdb
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\obj\Debug\Rename.csprojResolveAssemblyReference.cache
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\obj\Debug\Rename.Form1.resources
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\obj\Debug\Rename.Properties.Resources.resources
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\obj\Debug\Rename.csproj.GenerateResource.Cache
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\obj\Debug\Rename.exe
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\obj\Debug\Rename.pdb
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\obj\Debug\Rename.FormHelp.resources
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\obj\Debug\Rename.AboutBox1.resources

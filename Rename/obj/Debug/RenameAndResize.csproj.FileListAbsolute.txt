@@ -1,0 +1,6 @@
+E:\CONGVIEC\VisualStudioProj\Rename\RenameAndResize\bin\Debug\Rename.exe.config
+E:\CONGVIEC\VisualStudioProj\Rename\RenameAndResize\obj\Debug\Rename.exe
+E:\CONGVIEC\VisualStudioProj\Rename\RenameAndResize\obj\Debug\Rename.pdb
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\bin\Debug\Rename.exe.config
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\obj\Debug\Rename.exe
+E:\CONGVIEC\VisualStudioProj\Rename\Rename\obj\Debug\Rename.pdb
